@@ -8,8 +8,8 @@ pub fn run() {
     }
 }
 
-pub fn part1(contents: &str) -> i32 {
+pub fn part1(contents: &str) {
 }
 
-pub fn part2(contents: &str) -> i32 {
+pub fn part2(contents: &str) {
 }
