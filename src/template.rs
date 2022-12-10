@@ -13,3 +13,12 @@ pub fn part1(contents: &str) {
 
 pub fn part2(contents: &str) {
 }
+
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn check() {
+        assert_eq!(_, _);
+    }
+}
